@@ -1,4 +1,4 @@
-let sub=document.getElementById('submit').value;
+let sub=document.getElementById('submit');
 sub.onclick=getFormvalue;
 function getFormvalue() {
     //Write your code here
